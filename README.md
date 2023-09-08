@@ -90,3 +90,15 @@ This project is licensed under the MIT License.
 - This project was built with React.js, a JavaScript library developed by Facebook.
 - The icons used in the project are from [FontAwesome](https://fontawesome.com/).
 - Special thanks to the open-source community for providing invaluable resources and inspiration.
+
+  ## Screenshots
+
+  ![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/2d6cafbc-6bbf-43a0-bb73-bb0e9b9a04b2)
+
+![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/befb9e9f-e067-49f8-a642-d89e900a7e6e)
+
+![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/9def92fd-3f02-432c-a463-064a20866d2a)
+
+![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/cba82292-c9ca-4205-8991-c1a953e7dccb)
+
+![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/fa3d8f2b-60be-4c4d-a147-5fa63491761f)
