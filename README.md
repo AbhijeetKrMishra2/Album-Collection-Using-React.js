@@ -52,7 +52,6 @@ Before you start, ensure you have the following installed:
    npm start
    ```
 
-   This will start the app in development mode and open it in your default web browser. You can also access it at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
