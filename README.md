@@ -84,8 +84,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 ## Acknowledgments
 
 - This project was built with React.js, a JavaScript library developed by Facebook.
